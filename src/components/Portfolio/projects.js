@@ -3,7 +3,7 @@ import "./style.css";
 
 function Portfolio(props) {
     return (
-        <div className="portfolio col-8 mx-auto mt-5">
+        <div className="portfolio col-8 mx-auto mt-5 mb-3">
             <div className="port card ">
                 <img className="project" alt={props.alt} src={props.src} />
                 <div className="card-body ">
