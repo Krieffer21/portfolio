@@ -12,7 +12,7 @@
         "id": 2,
         "project": "Lyrics to Go",
         "about":"For our first project we used our newly acquired full-stack skills and knowledge to build a web application from scratch. Working collaboratively as a team, we have executed our design by integrating data received from multiple server-side API requests. Our web application, 'Lyrics to Go' is designed to provide the user with album artwork and lyrics based on the artist and song title they search for.",
-        "src": "../UsedImgs/lyricsTOgo.png",
+        "src": "https://drive.google.com/uc?export=view&id=12uE9FKWz8Js_uUTNkMcmn0ojMbZ0txYz",
         "alt": "Lyrics to Go App",
         "depl": "https://krieffer21.github.io/Lyrics-To-Go/ ",
         "git": "https://github.com/Krieffer21/Lyrics-To-Go"
